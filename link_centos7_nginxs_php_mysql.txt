@@ -1,0 +1,34 @@
+search PHP 5.6 nginx centos 7
+
+
+http://tecadmin.net/install-php-7-nginx-mysql-5-on-centos/#
+
+https://www.xshellz.com/community/tutorials/47975/How-to-install-php-5.6-on-CentOS-7-with-php-fpm-nginx-and-mariadb-with-vsftpd
+
+http://marcmojica.com/how-to-install-nginx-on-centos-7-with-php-7-php-5-and-mysql-mariadb-in-azure-or-hyper-v/
+
+http://www.tecmint.com/install-nginx-mariadb-php-rhel-centos-fedora/
+
+https://www.howtoforge.com/tutorial/install-nginx-with-php-and-mysql-lemp-stack-on-centos/
+
+https://www.rosehosting.com/blog/how-to-install-drupal-7-on-centos-7-with-nginx-mariadb-and-php-fpm/
+
+https://www.simplehelix.com/blog/uncategorized/installing-and-configuring-nginx-php-fpm-mariadb-on-centos-7/
+
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-centos-7
+
+https://websetnet.com/it/install-nginx-with-php-and-mysql-lemp-stack-on-centos-7/
+
+https://it.godaddy.com/help/build-a-lemp-stack-linux-nginx-mysql-php-centos-7-17349
+
+http://www.itzgeek.com/how-tos/linux/centos-how-tos/nginx-php-fpm-mariadb-on-centos-7-rhel-7.html
+
+https://www.unixmen.com/install-lemp-server-nginx-mariadb-php-centos-7/
+
+INTERESSANTI LEMP e Drupal8
+
+https://www.linuxbabe.com/linux-server/how-to-install-lemp-stack-linux-nginx-mariadb-php-on-centos7
+
+http://linoxide.com/how-tos/setup-drupal-8-lemp-stack-ubuntu-15-04-centos-7/
+
+
